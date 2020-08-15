@@ -56,6 +56,7 @@ KEY_COLONY_MODS = 'Colonies:ModList:{}'
 
 # API Status Keys
 KEY_API_VERSION = 'Configuration:API:Version'
+KEY_API_VERSION_SUPPORTED = 'Configuration:API:VersionSupported'
 KEY_API_MAINTENANCE_MODE = 'Configuration:API:Maintenance:Mode'
 KEY_API_MAINTENANCE_WINDOW = 'Configuration:API:Maintenance:Window'
 HASH_KEY_API_MAINTENANCE_WINDOW_START = 'Start'
